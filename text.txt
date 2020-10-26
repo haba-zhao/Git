@@ -7,3 +7,4 @@ i am student!
 success!
 wa ou
 wowowowowowo
+today  study git
