@@ -1,0 +1,3 @@
+i am student!
+
+今天是学习Git的一天呀,要开心
